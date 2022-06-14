@@ -9,16 +9,12 @@ Los tipos de datos en Java son un formato de almacenamiento que pueden contener 
 |long   | 64 bits |
 |float  | 32 bits |
 |double | 64 bits |
-|boolean|
+|boolean| 1 bit |
+|char   | 16 bits |
 
+## ¿Qué es un objeto?
+Un objeto puede ser una estructura de datos, una variable o una función. 
 
-* byte
-* short
-* int
-* long
-* float
-* double
-* boolean
-* char
+![]https://guru99.es/wp-content/uploads/2018/03/a11_1.jpg
 
 

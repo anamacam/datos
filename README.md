@@ -15,6 +15,8 @@ Los tipos de datos en Java son un formato de almacenamiento que pueden contener 
 ## ¿Qué es un objeto?
 Un objeto puede ser una estructura de datos, una variable o una función. 
 
-![](https://guru99.es/wp-content/uploads/2018/03/a11_1.jpg)
+![](https://guru99.es/wp-content/uploads/2018/03/a11_5.jpg)
+
+
 
 

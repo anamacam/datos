@@ -1,7 +1,8 @@
 # Tipos de datos
 Los tipos de datos en Java son un formato de almacenamiento que pueden contener un valor, un rango o atributo específico.
-## Datos Primitivos:
-|Dato  |Valor |
+## Datos Primitivos: 
+son datos que solo necesitan asignarle un valor a través del igual.
+|Dato  |Valor |             
 |-------| ---:|
 |byte   | 8 bits|
 |short  | 16 bits| 
@@ -11,6 +12,12 @@ Los tipos de datos en Java son un formato de almacenamiento que pueden contener 
 |double | 64 bits |
 |boolean| 1 bit |
 |char   | 16 bits |
+
+```flow
+st=>start: dato
+op=>operation: operación tipo de tado
+cond=>condition: ¿Datos de tipo primitivo de de tipo objeto?
+cond=>condition: Successful primitivo or objeto?
 
 ## ¿Qué es un objeto?
 Un objeto puede ser una estructura de datos, una variable o una función. 

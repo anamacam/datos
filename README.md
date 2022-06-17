@@ -1,8 +1,8 @@
 # Tipos de datos :octocat:
 Los tipos de datos en Java son un formato de almacenamiento que pueden contener un valor, un rango o atributo específico.
-## Datos Primitivos: 
+## Datos Primitivos: :fa-file-code-o: 
 son datos que solo necesitan asignarle un valor a través del igual.
-|Dato  |Valor |   :fa-file-code-o:           
+|Dato  |Valor |             
 |-------| ---:|
 |byte   | 8 bits|
 |short  | 16 bits| 
@@ -15,7 +15,7 @@ son datos que solo necesitan asignarle un valor a través del igual.
 
  
 
-![](https://guru99.es/wp-content/uploads/2018/03/a11_5.jpg)
+
 
 
 

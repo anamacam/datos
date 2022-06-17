@@ -13,7 +13,6 @@ son datos que solo necesitan asignarle un valor a través del igual.
 |boolean| 1 bit |
 |char   | 16 bits |
 
-:fa-file-code-o: 
 
 
 
